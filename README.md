@@ -6,3 +6,5 @@
   - input: query, knowledge graph; label: the graph fulfills properties stated in the query y/n (needs allignment of query embedding and graph embedding)
   - input: online community; label: community structure type
 - implemented methods: graph convolutional neural network, graph attention neural network
+
+![g_c](https://github.com/user-attachments/assets/2328e581-21b0-49ff-be17-c5bfaad0991c)
