@@ -7,4 +7,4 @@
   - input: online community; label: community structure type
 - implemented methods: graph convolutional neural network, graph attention neural network
 
-![g_c](https://github.com/user-attachments/assets/2328e581-21b0-49ff-be17-c5bfaad0991c)
+![g_c](https://github.com/user-attachments/assets/e5a8900e-e2ca-4099-9217-3999246f7b85)
