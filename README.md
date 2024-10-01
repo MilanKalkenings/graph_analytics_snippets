@@ -8,3 +8,13 @@
 - implemented methods: graph convolutional neural network, graph attention neural network
 
 ![g_c](https://github.com/user-attachments/assets/4220ff13-abdc-4f67-9c51-a2e56f45d6eb)
+
+
+# Link Prediction
+- task: predict if edge exists (binary classification)
+- examples:
+  - graph: social network; edge: people are friends with each other
+  - graph: knowledge graph; edge: relationship between entities/concepts 
+- implemented methods: graph convolutional neural network
+ 
+![link_prediction](https://github.com/user-attachments/assets/2602895d-4da0-4ee9-8fdf-45b5c276960d)
