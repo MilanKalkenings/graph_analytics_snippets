@@ -16,5 +16,5 @@
   - graph: social network; edge: people are friends with each other
   - graph: knowledge graph; edge: relationship between entities/concepts 
 - implemented methods: graph convolutional neural network
- 
-![link_prediction](https://github.com/user-attachments/assets/2602895d-4da0-4ee9-8fdf-45b5c276960d)
+
+![link_prediction](https://github.com/user-attachments/assets/5471b19e-7b54-46b7-83c0-1d251a22fd9e)
