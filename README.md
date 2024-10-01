@@ -17,4 +17,4 @@
   - graph: knowledge graph; edge: relationship between entities/concepts 
 - implemented methods: graph convolutional neural network
 
-![link_prediction](https://github.com/user-attachments/assets/5471b19e-7b54-46b7-83c0-1d251a22fd9e)
+![link_prediction](https://github.com/user-attachments/assets/e7d0de56-d547-431c-a773-40770f6c3f38)
