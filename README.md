@@ -18,3 +18,13 @@
 - implemented methods: graph convolutional neural network
 
 ![link_prediction](https://github.com/user-attachments/assets/e7d0de56-d547-431c-a773-40770f6c3f38)
+
+
+# Node Classification
+- task: predict node level label for each node in a graph
+- examples:
+    - nodes: users, edges: user interactions , labels: troll y/n
+    - nodes: documents, edges: doc similarity, labels: fake y/n
+ 
+![node_classification_small](https://github.com/user-attachments/assets/f2d445f4-1bce-4939-b51d-8ebddd6570d4)
+
