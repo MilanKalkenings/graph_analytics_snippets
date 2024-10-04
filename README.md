@@ -26,5 +26,6 @@
     - nodes: users, edges: user interactions , labels: troll y/n
     - nodes: documents, edges: doc similarity, labels: fake y/n
  
-![node_classification_small](https://github.com/user-attachments/assets/f2d445f4-1bce-4939-b51d-8ebddd6570d4)
+![node_classification_small](https://github.com/user-attachments/assets/fd304fc5-372a-4cef-80e5-634fd7650cb2)
+
 
