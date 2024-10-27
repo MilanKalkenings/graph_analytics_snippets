@@ -3,9 +3,15 @@
 Dimension | Relational Database | Graph Analytical
 |---|---|---|
 entity-centric vs context-centric |focus on individual entities (rows) and their attributes (columns) in tables|entities (vertices) gain latent attributes from paths and neighborhoods formed by their relations (edges); supports dense interconnection
-one-to-many vs Mmany-to-many relations | attribute aggregations (number of orders per customer) | connections, contexts, neighborhoods
+one-to-many vs Mmany-to-many relations | attribute aggregations (number of orders per customer) | (common) connections, contexts, neighborhoods
 set-based vs path-based relations| connect tables with keys using set logic: left join ($L \cup (L \cap R)$, all entities in left table and their attributes in right table), join ($L \cup R$, entities occuring in both tables)|traverse interconnected graph with Cycles (A is friend of B, B is friend of C, C is friend of A), Recursions (A is manager of B, B is manager of C)
-static vs dynamic schema|types of attributes and relations are rigidly defined and adding new forms of them demands challenging schema modifications|types of attributes and relations can dynamically be added or removed
+static vs dynamic schema|types of attributes and relations are rigidly defined and adding new forms of them demands challenging schema modifications|types of attributes and relations can be added or removed dynamically
+storage|efficiently stores entities and their attributes|efficiently stores entities, their attributes and their relations
+
+## Examples for relations
+- duration / evolution (until virus spreads, until next component is built, until customer upgrades subscription)
+- cost (of transporting goods from location to location, to perform next task)
+- similarity / difference (between names, between shapes, between number of customers in enterprise branches)
 
 
 # Graph Classification
