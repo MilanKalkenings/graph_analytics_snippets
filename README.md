@@ -44,10 +44,16 @@ storage|efficiently stores entities and their attributes|efficiently stores enti
 
 
 # Centrality
-- measures how "central" a node is
+- measures how "central" / "connected" / "influential" a node is
+- implemented for node classification
 
 ![graph_centrality](https://github.com/user-attachments/assets/c30cbd7c-ea4a-4dd0-abbc-25b6ebe0976c)
 
 <img width="770" alt="table_centrality" src="https://github.com/user-attachments/assets/46424bac-3487-4812-b940-8251c1700d91">
+
+centrality measure correlation on [youtube communities](https://snap.stanford.edu/data/com-Youtube.html):
+
+<img width="127" alt="centrality_corr_youtube" src="https://github.com/user-attachments/assets/0606322b-d580-478b-a849-815b06598de8">
+
 
 
