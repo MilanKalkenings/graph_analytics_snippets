@@ -43,3 +43,11 @@ storage|efficiently stores entities and their attributes|efficiently stores enti
 ![node_classification_small](https://github.com/user-attachments/assets/fd304fc5-372a-4cef-80e5-634fd7650cb2)
 
 
+# Node Centrality
+- measures how "central" a node is
+
+![graph_centrality](https://github.com/user-attachments/assets/c30cbd7c-ea4a-4dd0-abbc-25b6ebe0976c)
+
+<img width="770" alt="table_centrality" src="https://github.com/user-attachments/assets/46424bac-3487-4812-b940-8251c1700d91">
+
+
