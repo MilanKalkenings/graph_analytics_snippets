@@ -11,10 +11,13 @@ set-based vs path-based relations| set logic to connect tables with keys: left j
 recursive relations (A is manager of B, B is manager of C)|requires complex inefficient repeated joins |natively and efficiently supported
 storage|efficiently stores entities and their attributes|efficiently stores entities, their attributes and their (dense) relations
 
+# Multi-Agent Pathfinding 
+- agents have to reach goals in minimal time without colliding with obstacles or other agents
+- Each goal is locked on by agent with shortest path to the goal (Breadth First Search)
+- Collisions between agents are prevented while minimizing swarm travel costs (Hungarian Algorithm Movement Assignment)
 
-### Examples for relations
-- weighted: cost / duration / similarity (time until next component is built / time until contrat ends / cost to perform next task / difference in number of customers / name similarity)
-- binary: "has a contract with" / "cites" / "is synonyme of"
+![swarm](https://github.com/user-attachments/assets/b7b82e22-2657-4c89-85a2-9097985b2349)
+
 
 
 # Graph Classification
